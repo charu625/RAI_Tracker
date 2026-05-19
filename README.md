@@ -2,9 +2,9 @@
 
 A Responsible AI governance interface for configuring, monitoring, and managing organisation-wide AI metrics. Built as a frontend take-home exercise demonstrating product-quality UI, typed React architecture, and AI-assisted development with human review.
 
-**Live demo:** _Deploy to Vercel and add your URL here_
+**Live demo:** https://rai-tracker-ebon.vercel.app/
 
-**Repository:** _Add your public GitHub URL here_
+**Repository:** https://github.com/charu625/RAI_Tracker
 
 ---
 
